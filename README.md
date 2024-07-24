@@ -12,4 +12,5 @@
 
 ### Сommunication
 
-![Telegram](https://img.shields.io/badge/Telegram-474747?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fpublic_update)
+![Telegram](https://img.shields.io/badge/@public__update-474747?style=for-the-badge&logo=Telegram)
+![Discord](https://img.shields.io/badge/asyncupdate-474747?style=for-the-badge&logo=Discord)
