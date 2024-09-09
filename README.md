@@ -9,8 +9,3 @@
 ![Net](https://img.shields.io/badge/.Net-474747?style=for-the-badge&logo=.net)
 ![Blender](https://img.shields.io/badge/Blender-474747?style=for-the-badge&logo=Blender)
 ![SQL](https://img.shields.io/badge/SQL-474747?style=for-the-badge&logo=mysql)
-
-### Contacts:
-
-![Telegram](https://img.shields.io/badge/@public__update-474747?style=for-the-badge&logo=Telegram)
-![Discord](https://img.shields.io/badge/asyncupdate-474747?style=for-the-badge&logo=Discord)
